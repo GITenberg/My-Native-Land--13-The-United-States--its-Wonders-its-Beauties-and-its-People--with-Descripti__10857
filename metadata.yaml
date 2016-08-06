@@ -1,0 +1,29 @@
+_repo: My-Native-Land--13-The-United-States--its-Wonders-its-Beauties-and-its-People--with-Descripti__10857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cox, James
+    birthdate: 1851
+    deathdate: 1901
+    gutenberg_agent_id: '3722'
+    url: http://www.gutenberg.org/2009/agents/3722
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcsh 'Indians of North America'
+- !lcsh 'United States -- Description and travel'
+- GITenberg
+title: "My Native Land\r\nThe United States: its Wonders, its Beauties, and its People;\
+  \ with Descriptive Notes, Character Sketches, Folk Lore, Traditions, Legends and\
+  \ History, for the Amusement of the Old and the Instruction of the Young"
+url: http://www.gutenberg.org/ebooks/10857
